@@ -25,7 +25,8 @@ $ yarn start
 4. `yarn add react-navigation-stack @react-native-community/masked-view`
 5. `yarn add redux redux-saga react-redux`
 6. `yarn add -D eslint jest @react-native-community/eslint-config @types/react-redux`
-7. `yarn add react-navigation-material-bottom-tabs react-navigation-tabs @expo/vector-icons react-native-paper expo-font`
+7. `yarn add eslint-config-react-native-wcandillon --dev`
+8. `yarn add react-navigation-material-bottom-tabs react-navigation-tabs @expo/vector-icons react-native-paper expo-font`
 
 ## Licence
 
