@@ -1,4 +1,4 @@
-# Boiler plate for React native, TypeScript, Redux-Saga, React-navigation(V4)
+# Setup for React-native, TypeScript, Redux-Saga, React-navigation(V4)
 
 **_DEMO:_**
 
